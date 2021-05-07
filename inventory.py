@@ -23,4 +23,5 @@ for item in file:
     item=item.strip()
     inventory.append(item)
 file.close()
+
 print(inventory)
