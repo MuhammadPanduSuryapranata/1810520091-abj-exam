@@ -35,3 +35,4 @@ saned:x:121:128::/var/lib/saned:/usr/sbin/nologin
 colord:x:123:129:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
 pulse:x:124:130:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
 stunnel4:x:119:126::/var/run/stunnel4:/usr/sbin/nologin
+
