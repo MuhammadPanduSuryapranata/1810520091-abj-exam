@@ -1,2 +1,2 @@
 Nama Perangkat : Cisco,Lokasi : UBG
-Nama Perangkat : Cisco2,Lokasi : UBGNama Perangkat : Cisco3,Lokasi : UBGNama Perangkat : Jarkom,Lokasi : UBGNama Perangkat : RPL,Lokasi : UBG
+Nama Perangkat : Cisco2,Lokasi : UBGNama Perangkat : Cisco3,Lokasi : UBGNama Perangkat : Jarkom,Lokasi : UBG Nama Perangkat : RPL,Lokasi : UBG
